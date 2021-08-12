@@ -1,0 +1,8 @@
+# 发送者邮箱地址
+sender: "××××××@163.com"
+# 邮箱服务器密码
+password: "×××××××××××"
+# 邮箱服务器
+mail_host: "smtp.163.com"
+# 接收者邮箱地址
+recipient: "××××××@163.com"
