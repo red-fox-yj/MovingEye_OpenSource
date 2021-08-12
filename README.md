@@ -1,4 +1,4 @@
-# MovingEye
+# MovingEye（开源版）
 
 <img src="https://raw.githubusercontent.com/red-fox-yj/MarkDownPic/main/typora/MovingEye.jpg" alt="MovingEye" style="zoom: 18%;" />
 
